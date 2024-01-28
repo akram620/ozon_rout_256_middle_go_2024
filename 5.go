@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main5() {
 	var t int
 	fmt.Scanf("%d\n", &t)
 
