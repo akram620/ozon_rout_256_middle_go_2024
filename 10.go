@@ -22,7 +22,7 @@ type commentsMain struct {
 	child []commentsMain
 }
 
-func main() {
+func main10() {
 	var t int
 	fmt.Scanf("%d\n", &t)
 
