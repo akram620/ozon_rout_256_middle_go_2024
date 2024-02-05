@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main7() {
 	var t int
 	fmt.Scanf("%d\n", &t)
 
